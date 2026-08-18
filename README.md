@@ -111,7 +111,7 @@ $$\text{Anomaly}(t) = T(t) - \bar{T}_{\text{clim}}(\text{month}(t))$$
 * **Cartographic Polish:** Adding physical coastlines from local shapefiles and configuring coordinate degree labels using `LongitudeFormatter` and `LatitudeFormatter`.
 
 ---
-## Notebook: Demo_NB_1.ipynb
+## Notebook: Demo_NB_2.ipynb
 
 ### Module 5: Spatial Linear Trends & Decadal Warming
 
