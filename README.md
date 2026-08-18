@@ -28,7 +28,7 @@ This repository contains interactive laboratory tutorials and demo notebooks for
 
 ```
 
-> **Note on Datasets:** Due to GitHub storage limits, large multi-level 3D/4D atmospheric fields (such as `uwnd.mon.mean.nc` and `vwnd.mon.mean.nc`) are not hosted directly in this repository. Students registered for the course can copy the complete dataset directory from the central lab data server path shared during class (`/mnt/5GLab2/ClimData/NCEP/3d/`) into their local `/home/MS2XXXX/` directory.
+> **Note on Datasets:** Due to GitHub storage limits, large multi-level 3D/4D atmospheric fields (such as `uwnd.mon.mean.nc` and `vwnd.mon.mean.nc`) are not hosted directly in this repository. Students registered for the course can copy the complete dataset directory from the central lab data server path shared during class (`/mnt/5GLab2/ClimData/NCEP/3d/`) into their local `/home/student/MS2XXXX/` directory.
 
 ---
 
