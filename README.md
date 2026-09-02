@@ -166,3 +166,10 @@ $$T(t) = m \cdot t + c$$
 | `air.mon.ltm.nc` | 4D Long-Term Monthly Mean Air Temperature | Regular Lat-Lon ($73 \times 144$) | `(time: 12, level: 17, lat: 73, lon: 144)` | 12 Climatological Months |
 | `uwnd.mon.mean.nc` | 4D Monthly Mean Zonal (East-West) Wind | Regular Lat-Lon ($73 \times 144$) | `(time: 529, level: 17, lat: 73, lon: 144)` | Jan 1979 – Jan 2023 |
 | `vwnd.mon.mean.nc` | 4D Monthly Mean Meridional (North-South) Wind | Regular Lat-Lon ($73 \times 144$) | `(time: 529, level: 17, lat: 73, lon: 144)` | Jan 1979 – Jan 2023 |
+
+
+## To install the WRF-Post Processing conda environment to run the post-process python code files
+
+```bash
+conda env create -f wrf_post.yml
+```
